@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie TvShow</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="title">title</string>
+    <string name="description">Deskripsi</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="release">release</string>
+    <string name="release_">Rilis</string>
+    <string name="durasi">Durasi</string>
+    <string name="poster">poster</string>
+</resources>
